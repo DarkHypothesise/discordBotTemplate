@@ -1,0 +1,12 @@
+{
+    "name": "discord-bot-template",
+    "version": "1.0.0",
+    "description": "Eine einfache Discord-Bot-Vorlage",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "discord.js": "^14.0.0"
+    }
+}
